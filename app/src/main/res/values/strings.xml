@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Tattoo Onsen Map</string>
+    <string name="title_activity_onsen_maps">Onsen Map</string>
+    <string name="recomend">Recommend</string>
+    <string name="ok">OK</string>
+    <string name="ng">NG</string>
+    <string name="no_data">NoData</string>
+    <string name="detail">Detail</string>
+    <string name="send_to_friend">send to friend</string>
+    <string name="developer">makewithus.com</string>
+    <string name="search_by_keyword">Search by keyword</string>
+    <string name="keyword_example">(ex) Tokyo tower, Shinjuku station</string>
+    <string name="input_keyword">Input keyword</string>
+    <string name="comments">Comments</string>
+    <string name="send">Send</string>
+    <string name="input_comment">Input comment</string>
+    <string name="top_20_traveller">Top 20 onsen traveller</string>
+    <string name="ranking_description">descriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescription</string>
+    <string name="version">version </string>
+    <string name="web">web</string>
+    <string name="email_us">email to us</string>
+    <string name="support_us">Please support us</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="keyword1">温泉</string>
+    <string name="keyword2">銭湯</string>
+    <string name="keyword3">風呂</string>
+    <string name="dialog_tel">Call to this place?</string>
+    <string name="dialog_call_ok">Call</string>
+    <string name="dialog_no">No</string>
+    <string name="send_to">Send to</string>
+    <string name="tel">Tel:</string>
+    <string name="location">Location:</string>
+    <string name="tattoo">Tattoo:</string>
+    <string name="share_footer">Send from Tattoo Onsen Map</string>
+    <string name="action_settings">settings</string>
+    <string name="dialog_send_rating">Send new rating?</string>
+    <string name="dialog_send_ok">Send</string>
+    <string name="dialog_send_nickname">Please set your nickname.</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="post_success">Posting succeed.</string>
+    <string name="post_failed">Posting failed.</string>
+    <string name="your_rating">Your rating</string>
+    <string name="not_rated">Not rated</string>
+    <string name="ok_today">Does this place currently allow Tattoo?</string>
+    <string name="today_you_post_ng">You marked \'Currently Tattoo NG\'.</string>
+    <string name="today_you_post_ok">You marked \'Currently Tattoo OK\'.</string>
+    <string name="action_search">Search</string>
+    <string name="action_info">Info</string>
+    <string name="action_offline">Offline</string>
+    <string name="search_dialog_title">Search by place name or address.</string>
+    <string name="search_dialog_hint">Type place name or address.</string>
+    <string name="show_ng">Show NG place</string>
+    <string name="deleted">Delete</string>
+    <string name="undo">Undo</string>
+    <string-array name="sort_array">
+        <item>name</item>
+        <item>nearby</item>
+        <item>rating</item>
+        <item>added date</item>
+    </string-array>
+    <string name="dialog_web">Open Web page?</string>
+    <string name="dialog_fb">Open Facebook page?</string>
+    <string name="dialog_twitter">Open Twitter page?</string>
+    <string name="app_share_text">Tattoo Onsen Map(Android/iOS app)\n\nweb:http://makewithus.com/</string>
+    <string name="email_title">[OnsenTattooMap Support]</string>
+    <string name="email_body">Name:\:</string>
+    <string name="comment_dialog_delete">Delete</string>
+    <string name="action_ranking">Ranking</string>
+    <string name="action_user_account">Profile</string>
+    <string name="action_home">Map(Home)</string>
+    <string name="ranking_label_prefix">No:</string>
+    <string name="ranking_point_postfix">points</string>
+    <string name="facebook_app_id">1500269570272557</string>
+    <string name="profile_manage_title">Profile</string>
+    <string name="twitter_logout">Logout from Twitter</string>
+    <string name="set_nickname">Not signed in</string>
+    <string name="login_with_phone">Login using phone id.</string>
+    <string name="logout_with_phone">Logout</string>
+    <string name="loading">Loading</string>
+    <string name="clear_cache_menu">Clear Caches</string>
+    <string name="clear_cache_complete_toast">Caches have been cleared</string>
+    <string name="imageview_description">Image Thumbnail</string>
+    <string name="no_network_connection_toast">No network connection found</string>
+    <string name="dialog_edit_comment">Edit or Delete</string>
+    <string name="selected_place">Last Selected Place:</string>
+    <string name="clear_text">Clear Text</string>
+
+    <!-- getString(String, Object...) does not support HTML tags directly, they need to be encoded first.
+    Original string: <b>%1$s</b><br/><i>Place Id: %2$s</i><br/>Address: %3$s<br/>Phone: %4$s<br/>Website: %5$s-->
+    <string name="place_details">&lt;b&gt;%1$s&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Address: %2$s&lt;br/&gt;Phone: %3$s&lt;br/&gt;Website: %4$s</string>
+
+    <string name="search_button">Go</string>
+    <string name="search_box_error">Can\'t connect to Place search server.</string>
+</resources>

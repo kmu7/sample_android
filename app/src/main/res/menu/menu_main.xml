@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.makewithus.tattooonsenmap.MainActivity">
+    <item android:id="@+id/action_search" android:title="@string/action_search"
+        android:orderInCategory="100" app:showAsAction="ifRoom"
+        android:icon="@drawable/search_icon"/>
+    <item android:id="@+id/action_info" android:title="@string/action_info"
+        android:orderInCategory="100" app:showAsAction="never"/>
+    <item android:id="@+id/action_offline" android:title="@string/action_offline"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/offline_icon"/>
+    <item android:id="@+id/action_ranking" android:title="@string/action_ranking"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/offline_icon"/>
+    <item android:id="@+id/action_useraccount" android:title="@string/action_user_account"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/offline_icon"/>
+    <item android:id="@+id/action_home" android:title="@string/action_home"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/offline_icon"/>
+</menu>

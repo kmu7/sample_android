@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-4dcd803d5f500171e736a084fd5ea9da8a5983d6.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.hudomju/swipe-to-dismiss-undo/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c934830482473cb298c02f9eb55da67548b9db40">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-da9a4e193969efa4445fd435edaa0642cc62d050.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-f0a07a10fdf5c76cbd088ada60366bc50a4a0914.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0-1deead3d440e3cc0b0a3b1c4edfd1aed98b9b75c.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0f09a98a9468088a9e6a5e7624c12df4c3f19f5d">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/volley-0f50826a3be1d4aca27842693b932fd4c0c43c1e.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-1bd60f9e54a0205bc6ed88f789776e17c1551e71.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-8c654eb5b1423a5ebb0a9465a9e15140ab582df6.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-cc69682b54cdddb57ef5a0308658a012d3947b05.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-325b94f22b022f4c0707391ab02096e893682d8c.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-6f2ad76777ed4d1ad4045492752ccd317e17dfbe.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-98f0bc0d1532659206b6ccd83a05632810b5c183.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-c2065fb8cc2602b198b9d1dd7c527daea92586e0.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/dev_tools/android_sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-72c512a42203cb7f5297871db0ec69f51a42abee.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2e5869088bb5b0cb594cd621593949483f8b9aa4.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/gson-2.3-086fc54eb46392c36f3e1708a449656074133f29.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-b9ca84587443711d7d25b28565c538575596a74f.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="074b93197194a0225023845f90cceba9518be74c">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-fe392014451ff6baf9c29edaf00dd90d0f9109e3.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-5e47a19902a028823c472cf5819f097a11ac103f.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-962b482b5d948435990acc755d00bba9d9bbfc22.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-230fb86851de6a23f151d156a8d71e1795c1112b.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-e61df38938777b0ec13e23beceaa4aa5b9f53790.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c598243d9616e3c6132e054d43f50ff8f8dee63">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-a1e722e30f7d34f7c9b209434402a043398f4f6d.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-c963261190b7475b0d9d71c80ac119630095d249.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6fc144eac80d908c45c4308e9aaa55622cae086f">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-12dbe5bb3feb229109a2f9018ca8a2f05b282419.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-a28354faf0db579606937570680498f0d2f9ad8b.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-57f0d7d8a142d82878e44f63ad901ed4dafd0a56.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b068965b1347f34c1918a6d606358e7b357a1229">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-e48b149b4a98cc8e546095c4dfd33fa8ab3875e4.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-7344e0abb662016230e1f524f4000d174435f108.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-66342bc86f7d268eecc113fbf7e38e68ac840c46.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-984ef54a3439149c362c1ea0fb40770f2e8b83fb.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-40f7ed2bb5ee356dbb9cc7cab012fd0a60eed62b.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-ea9b641d57ac6a79af9462c856b645b22f305aff.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-d2db3c6570c01dad3312f2f5a436162a9b8bca04.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e65060ef2ec6ec98365250d2119d7968626fd3f">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-2c1d895e73f4cf95df08c99d5d08173bf9d7f779.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-f88e676fa9a3b24d9eeb803b4adda40f2e2ad3e9.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-e356e6d08fa8658764290eead881b54f54c8ff7e.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0da1f985a5c523b6e9dbdfe037017e3cb5da83b9.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de76a31d4a478cd8fcd7e30ec63261c18ba4f5a5">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-e58d489348ddd80ec73a28d7cb4a168c83dca36b.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-72a5ed81280e321268ea6992ffad6078547760c3.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-a0f5b555471b0e50a81c597301556d0547f1c7e3.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-e5cf930b1d55bf56ac5786be2f5b4fda6406b982.jar" />
+    </item>
+    <item
+        jar="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="/Users/KEN/Documents/job/codes/android/TattooOnsenMap/app/build/intermediates/pre-dexed/debug/classes-6d3f922f4a1567eb1db5fbb0e3430f8fab2ac060.jar" />
+    </item>
+
+</items>

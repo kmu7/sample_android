@@ -1,0 +1,94 @@
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:id="@+id/rootLayout" tools:context=".OnsenMapsActivity"
+>
+
+<fragment
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/exampleLayout"
+        android:background="@color/transparent_white">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/recommendPinImg"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/abc_btn_check_to_on_mtrl_000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/recomend"
+            android:id="@+id/recommendPinLabel"
+            android:singleLine="false"
+            android:layout_weight="1"
+            android:gravity="center_vertical|left" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/okPinImg"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/abc_btn_check_to_on_mtrl_000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/ok"
+            android:id="@+id/okPinLabel"
+            android:singleLine="false"
+            android:layout_weight="1"
+            android:gravity="center_vertical|left" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/ngPinImg"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/abc_btn_check_to_on_mtrl_000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/ng"
+            android:id="@+id/ngPinLabel"
+            android:singleLine="false"
+            android:layout_weight="1"
+            android:gravity="center_vertical|left" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/noDataPinImg"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/abc_btn_check_to_on_mtrl_000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/no_data"
+            android:id="@+id/noDataPinLabel"
+            android:singleLine="false"
+            android:layout_weight="1"
+            android:gravity="center_vertical|left" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+
